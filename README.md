@@ -83,5 +83,8 @@ Envelope-Gallery-Section/
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
-## Images
+## Output
 ![image](https://github.com/user-attachments/assets/cd53d7fb-3d4c-4c0e-b35a-23ffe28627ad)
+
+![image](https://github.com/user-attachments/assets/0c3664a3-ae7c-41b4-a4e1-21551a16b355)
+
