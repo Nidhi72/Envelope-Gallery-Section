@@ -1,6 +1,8 @@
 # Envelope Gallery Section
+We have created an impressive "Envelope" section that features a visually appealing layout containing images placed within an envelope-like design. Each image sits inside its dedicated frame, and on hover, the image smoothly transitions upward, creating an interactive floating effect. Additionally, a subtle filter effect is applied during the hover state, enhancing the overall visual appeal and providing a modern, polished user experience.
 
-A modern, responsive gallery section built with ReactJS, Vite, and TailwindCSS. This project showcases an envelope-style image gallery with optimized assets and a focus on accessibility, mobile-first design, and best UI/UX practices.
+A modern, responsive gallery section built with ReactJS, Vite, and TailwindCSS. This project showcases an envelope-style image gallery with optimized assets and a focus on accessibility, and best UI/UX practices.
+
 
 ## Features
 - Responsive envelope-style image gallery
